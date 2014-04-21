@@ -4,9 +4,34 @@ p{
 	color:red;
 }
 
+.byline{
+
+	font-family: impact;
+	color: green;
+	font-size: 40px;
+}
+
+.list-title{
+	background-color: yellow;
+}
+
+.outlier{
+		color: purple;
+}
+
 img{
 	height:200px;
 	width: 300px;
+}
+
+.coolio{
+	height: 800px;
+	width: 1200px;
+}
+
+.rza{
+	height: 100px;
+	width: 150px;
 }
 
 ul{
@@ -15,4 +40,12 @@ ul{
 
 h1{
 	font-family: "Helvetica Neue", sans-serif;
+}
+
+li{
+	background-color: yellow;
+}
+
+.test-list {
+	background-color: yellow;
 }
